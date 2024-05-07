@@ -18,7 +18,7 @@ developer - https://t.me/pysmart
 - download [Python](https://python.org)
 - install the python software
 - open the python terminal
-- run the main.py scirpt
+- run the send.py scirpt
 - python3 send.py
 
   # CONTACT
